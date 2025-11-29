@@ -53,6 +53,10 @@ Debido a la naturaleza comercial de mis proyectos, el código fuente principal s
 
 <br>
 
+---
+
+###  Contacto
+
 <div align="center"> 
   <a href="https://www.linkedin.com/in/jorge-alfonso-mandujano-moreno-a783b839b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
