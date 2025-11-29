@@ -55,6 +55,35 @@ Debido a la naturaleza comercial de mis proyectos, el código fuente principal s
 
 <div align="center"> 
   <a href="https://www.linkedin.com/in/jorge-alfonso-mandujano-moreno-a783b839b/" target="_blank">
-    <img src="https://img.shields.io/badge/Conectemos_en_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  &nbsp; <a href="mailto:mandujanojam28@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+</div>
+
+---
+
+###  Certificaciones & Badges
+
+<div align="center">
+
+<a href="https://www.credly.com/users/jorge-alfonso-mandujano-moreno" target="_blank">
+  <img src="https://img.shields.io/badge/Huawei-Data_Comm_&_Network-red?style=for-the-badge&logo=huawei&logoColor=white" />
+</a>
+
+<a href="https://www.credly.com/users/jorge-alfonso-mandujano-moreno" target="_blank">
+  <img src="https://img.shields.io/badge/Cisco-CCNA_Switching_&_Routing-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+</a>
+
+<a href="https://www.credly.com/users/jorge-alfonso-mandujano-moreno.b5b95f1d" target="_blank">
+  <img src="https://img.shields.io/badge/Oracle-Java_&_Database-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+</a>
+
+<br>
+
+<a href="https://www.credly.com/users/jorge-alfonso-mandujano-moreno" target="_blank">
+  <img src="https://img.shields.io/badge/Ver_Todas_mis_Credenciales_en-Credly-F05032?style=flat&logo=credly&logoColor=white" />
+</a>
+
 </div>
