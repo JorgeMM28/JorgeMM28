@@ -67,21 +67,6 @@ Debido a la naturaleza comercial de mis proyectos, el código fuente principal s
 ###  Certificaciones & Badges
 
 <div align="center">
-
-<a href="https://www.credly.com/users/jorge-alfonso-mandujano-moreno" target="_blank">
-  <img src="https://img.shields.io/badge/Huawei-Data_Comm_&_Network-red?style=for-the-badge&logo=huawei&logoColor=white" />
-</a>
-
-<a href="https://www.credly.com/users/jorge-alfonso-mandujano-moreno" target="_blank">
-  <img src="https://img.shields.io/badge/Cisco-CCNA_Switching_&_Routing-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-</a>
-
-<a href="https://www.credly.com/users/jorge-alfonso-mandujano-moreno.b5b95f1d" target="_blank">
-  <img src="https://img.shields.io/badge/Oracle-Java_&_Database-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-</a>
-
-<br>
-
 <a href="https://www.credly.com/users/jorge-alfonso-mandujano-moreno" target="_blank">
   <img src="https://img.shields.io/badge/Ver_Todas_mis_Credenciales_en-Credly-F05032?style=flat&logo=credly&logoColor=white" />
 </a>
