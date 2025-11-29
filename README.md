@@ -71,4 +71,8 @@ Debido a la naturaleza comercial de mis proyectos, el código fuente principal s
   <img src="https://img.shields.io/badge/Ver_Todas_mis_Credenciales_en-Credly-F05032?style=flat&logo=credly&logoColor=white" />
 </a>
 
+<a href="https://www.credly.com/users/jorge-alfonso-mandujano-moreno.b5b95f1d/badges#credly" target="_blank">
+  <img src="https://img.shields.io/badge/Ver_Todas_mis_Credenciales_en-Credly-F05032?style=flat&logo=credly&logoColor=white" />
+</a>
+
 </div>
