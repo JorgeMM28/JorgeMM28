@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:334155&height=280&section=header&text=Hola,%20soy%20Jorge%20Mandujano&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Ingeniero%20de%20Software%20Full%20Stack%20&descAlignY=55&descSize=25" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:334155&height=280&section=header&text=Hola,%20soy%20Jorge%20Mandujano&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Ingeniero%20de%20Software%20Full%20Stack%20&descAlignY=55&descSize=25" width="100%"/>
 </div>
 
 ###  Sobre mí
