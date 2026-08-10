@@ -4,7 +4,7 @@
 
 ###  Sobre mí
 
-¡Hola! Soy estudiante de último año de **Ingeniería en Sistemas Computacionales** en México. Me especializo en el desarrollo de aplicaciones web complejas, ERPs y sistemas de gestión.
+¡Hola! Soy egresado de **Ingeniería en Sistemas Computacionales** en México. Me especializo en el desarrollo de aplicaciones web complejas, ERPs y sistemas de gestión.
 
 Debido a la naturaleza comercial de mis proyectos, el código fuente principal se mantiene privado. Sin embargo, he preparado documentación técnica detallada, diagramas de arquitectura y demostraciones visuales en mi repositorio público de portafolio:
 
